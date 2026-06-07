@@ -1,4 +1,4 @@
-<h1 align="center">ao meu perfil! 👋</h1>
+<h1 align="center"> 👋</h1>
 
 <p align="center">
   <b>Analista Estratégica | Business Intelligence (BI) | Auditoria de Processos</b>
@@ -48,24 +48,25 @@ Atuo no desenvolvimento de soluções analíticas que apoiam a otimização de p
 - **JML** — Projeto de otimização de processos internos com aplicação de análise de dados e melhoria contínua de fluxos organizacionais.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lkaifiti&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaifiti&layout=compact&theme=default&hide_border=true" height="170"/>
+  <!-- Cartão de Estatísticas Gerais (Configurado para tentar puxar commits públicos e privados) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lkaifiti&show_icons=true&theme=default&count_private=true&hide_border=true" height="170" alt="GitHub Stats" />
+  
+  <!-- Cartão de Dias Consecutivos Ativos (Mais estável para contas recentes) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lkaifiti&theme=default&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
+
 
 ---
 
 ## 📬 Contacto
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Software_Analysis-95%25-blue?style=flat-square&logo=gitbook" />
-  <img src="https://img.shields.io/badge/Sensitive_Data_Audit-Secure_🔒-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Business_Intelligence-Active_🟢-important?style=flat-square&logo=powerbi" />
-  <img src="https://img.shields.io/badge/System_Automation-Python_%2F_SQL-success?style=flat-square&logo=python" />
-</p>
+  <a href="https://linkedin.com/in/lkaifiti1508" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
   <a href="mailto:lkaifiti@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
