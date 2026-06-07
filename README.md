@@ -1,7 +1,7 @@
-<h1 align="center">Olá, ao meu perfil! 👋</h1>
+<h1 align="center">Olá, bem-vindo(a) ao meu perfil! 👋</h1>
 
 <p align="center">
-  <b>Analista Estratégica | Gestão de Dados (BI) | Auditoria de Processos</b>
+  <b>Analista Estratégica | Business Intelligence (BI) | Auditoria de Processos</b>
 </p>
 
 <p align="center">
@@ -11,37 +11,71 @@
 
 ---
 
-## 📑 Sobre Mim
+## 📌 Sobre Mim
 
-Sou especialista em **Análise Estratégica, Gestão de Dados e Auditoria de Processos**. Meu foco é transformar dados brutos em inteligência de negócios, otimizando fluxos de trabalho e estruturando sistemas eficientes para tomada de decisão.
+Sou especialista em **Análise Estratégica, Gestão de Dados e Auditoria de Processos**, com foco em transformar dados em decisões estratégicas para melhoria de desempenho organizacional.
 
-Aqui você encontrará a documentação dos meus projetos de modelagem de dados, automação de processos e inteligência de negócios.
+Atuo no desenvolvimento de soluções analíticas que apoiam a otimização de processos e a eficiência operacional.
 
 ---
 
-## 🛠️ Competências & Ferramentas
+## 🧠 Áreas de Atuação
 
-*   **Inteligência de Negócios:** Modelagem de Dados, Criação de Dashboards, Indicadores de Desempenho (KPIs).
-*   **Gestão & Processos:** Mapeamento de Fluxos, Auditoria de Processos, Organização Ágil.
-*   **Ferramentas e Tecnologias:**
-    *   📊 Power BI / Excel Avançado
-    *   🗄️ SQL (Modelagem e Consulta de Bancos de Dados)
-    *   📌 Trello / Ferramentas de Gestão Visual
-    *   🐍 Python / 🔵 Linguagem C / 💛 JavaScript
+- 📊 Business Intelligence e análise de dados  
+- 📈 Criação de dashboards e indicadores (KPIs)  
+- ⚙️ Mapeamento e otimização de processos  
+- 🗄️ Estruturação e modelagem de dados  
+- 🧩 Suporte à tomada de decisão baseada em dados  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-*   **[imlc]:** Breve descrição de um sistema, painel ou estrutura que você criou (ex: Painel de Controle de Fluxo Logístico ou Auditoria de Estoque).
-*   **[jml]:** Breve explicação do impacto gerado (ex: Otimização de processos internos utilizando metodologias ágeis).
+- **IMLC** — Sistema de análise e controlo de processos logísticos, focado na eficiência operacional e rastreabilidade de dados.
+
+- **JML** — Projeto de otimização de processos internos com aplicação de análise de dados e melhoria contínua de fluxos organizacionais.
 
 ---
 
-## 📬 Conecte-se Comigo
-📍 Luanda, Angola
-*   💼 [LinkedIn](https://www.linkedin.com/in/lkaifiti1508) — Conecte-se comigo profissionalmente
-*   📧 [E-mail](mailto:lkaifiti@gmail.com) — Contato direto via e-mail
-*   💬 [WhatsApp](https://wa.me/244928138331) — Canal de comunicação rápido
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lkaifiti&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaifiti&layout=compact&theme=default&hide_border=true" height="170"/>
+</p>
 
 ---
+
+## 📬 Contacto
+
+<p align="left">
+  <a href="https://linkedin.com/in/lkaifiti1508" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:lkaifiti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://wa.me/244928138331">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Perfil focado em dados, eficiência e tomada de decisão estratégica.</b>
+</p>
