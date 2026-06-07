@@ -48,18 +48,6 @@ Atuo no desenvolvimento de soluções analíticas que apoiam a otimização de p
 - **JML** — Projeto de otimização de processos internos com aplicação de análise de dados e melhoria contínua de fluxos organizacionais.
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Cartão de Estatísticas Gerais (Configurado para tentar puxar commits públicos e privados) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lkaifiti&show_icons=true&theme=default&count_private=true&hide_border=true" height="170" alt="GitHub Stats" />
-  
-  <!-- Cartão de Dias Consecutivos Ativos (Mais estável para contas recentes) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lkaifiti&theme=default&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
-
----
 
 ## 📬 Contacto
 
