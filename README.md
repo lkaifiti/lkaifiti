@@ -1,4 +1,4 @@
-<h1 align="center">Olá, bem-vindo(a) ao meu perfil! 👋</h1>
+<h1 align="center">ao meu perfil! 👋</h1>
 
 <p align="center">
   <b>Analista Estratégica | Business Intelligence (BI) | Auditoria de Processos</b>
@@ -61,9 +61,11 @@ Atuo no desenvolvimento de soluções analíticas que apoiam a otimização de p
 ## 📬 Contacto
 
 <p align="left">
-  <a href="https://linkedin.com/in/lkaifiti1508" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://img.shields.io/badge/Software_Analysis-95%25-blue?style=flat-square&logo=gitbook" />
+  <img src="https://img.shields.io/badge/Sensitive_Data_Audit-Secure_🔒-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-Active_🟢-important?style=flat-square&logo=powerbi" />
+  <img src="https://img.shields.io/badge/System_Automation-Python_%2F_SQL-success?style=flat-square&logo=python" />
+</p>
 
   <a href="mailto:lkaifiti@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
