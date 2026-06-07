@@ -74,7 +74,7 @@
   <a href="mailto:seu-email@exemplo.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
